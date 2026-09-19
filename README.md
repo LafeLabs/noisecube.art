@@ -1,2 +1,3 @@
-# noisecube.art
-noisecube.art web page media
+# [noisecube.art](https://noisecube.art/)
+
+![](schematic.png)
